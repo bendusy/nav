@@ -161,7 +161,8 @@
           qrcode: images/qrcodes/cli.png
           logo: 
           url: https://cli.im/url
-          description: 二维码演示，手机扫一扫，也可以点击        - title: tinypng
+          description: 二维码演示，手机扫一扫，也可以点击
+        - title: tinypng
           url: https://tinypng.com/
           logo: images/logos/tinypng.png
           description: Optimize your images with a perfect balance in quality and file size.
