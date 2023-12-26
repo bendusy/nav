@@ -7,11 +7,6 @@
       logo: 
       url: https://www.github.com/
       description: Git Hub是一个基于web的版本控制和协作平台，主要用于存储、管理和分享开源代码和项目。
-    - title: 二维码演示
-      qrcode: images/qrcodes/cli.png
-      logo: 
-      url: https://cli.im/url
-      description: 二维码演示，手机扫一扫，也可以点击
     - title: Medium
       url: https://medium.com/
       description: 高质量设计文章
@@ -30,25 +25,21 @@
       description: 全球最大的UI学习分享平台
     
 
-- taxonomy: 社区咨询
+- taxonomy: 文字阅读
   icon: fa-newspaper-o
   links: 
-    - title: 雷锋网
-      logo: images/logos/leiphone.png
-      url: https://www.leiphone.com/
-      description: 人工智能和智能硬件领域的互联网科技媒体
-    - title: 36kr
-      logo: images/logos/36kr.png
-      url: https://36kr.com/
-      description: 创业资讯、科技新闻
-    - title: 数英网
-      logo: images/logos/digitaling.png
-      url: https://www.digitaling.com/
-      description: 数字媒体及职业招聘网站
-    - title: 猎云网
-      logo: images/logos/lieyunwang.png
-      url: https://www.lieyunwang.com/
-      description: 互联网创业项目推荐和创业创新资讯
+    - title: Zlib
+      url: https://zlib.pro/
+      description: 全球最大电子书库
+    - title: 抽屉新热榜
+      url: https://dig.chouti.com/
+      description: 比较好看的新闻聚合平台
+    - title: readhub
+      url: https://readhub.cn/
+      description: 比较喜欢白色背景的，容易摸鱼
+    - title: 今日热榜
+      url: https://tophub.today/
+      description: 今日热榜
     - title: 人人都是产品经理
       logo: images/logos/woshipm.png
       url: http://www.woshipm.com/
@@ -124,16 +115,15 @@
           url: https://obsidian.md/
           logo: images/logos/photoshop.png
           description: obsidian笔记软件
-        - title: Affinity Designer
-          url: https://affinity.serif.com/
-          logo: images/logos/AffinityDesigner.png
-          description: 专业创意软件
-        - title: Illustrator
-          url: https://www.adobe.com/cn/products/illustrator/
+        - title: “反”斗软件
+          url: https://www.apprcn.com/
+          description: 关注个人软件和绿色软件。
+        - title: 果核剥壳
+          url: https://www.ghxi.com/
           logo: images/logos/Illustrator.png
-          description: 矢量图形和插图。
+          description: 自称是互联网的净土。
         - title: indesign
-          url: http://www.adobe.com/cn/products/indesign.html
+          url: https://outlook.live.com/mail/0/
           logo: images/logos/INDESIGN .png
           description: 页面设计、布局和出版。
         - title: cinema-4d
@@ -148,12 +138,30 @@
           url: https://www.blender.org/
           logo: images/logos/blender.png
           description: Blender is the free and open source 3D creation suite.
-      
+          
+    - term: 常用邮箱
+      links:
+        - title: outlook
+          url: https://outlook.live.com/
+          description: ms的邮箱，稳稳的
+        - title: Gmail
+          url: https://mail.google.com/
+          description: Gmail主力      
+        - title: cock.li
+          url: https://cock.li
+          description: 简单易用有内涵      
+        - title: 阿里云邮箱
+          url: https://mail.aliyun.com/
+          description: 国内邮箱中广告最少的      
 
 
     - term: 在线工具
       links:
-        - title: tinypng
+        - title: 二维码演示
+          qrcode: images/qrcodes/cli.png
+          logo: 
+          url: https://cli.im/url
+          description: 二维码演示，手机扫一扫，也可以点击        - title: tinypng
           url: https://tinypng.com/
           logo: images/logos/tinypng.png
           description: Optimize your images with a perfect balance in quality and file size.
@@ -236,78 +244,6 @@
           logo: images/logos/photoshopetiquette.png
           description: PS礼仪-WEB设计指南
 
-
-- taxonomy: UED团队
-  icon: fa-user
-  links: 
-    - title: Airbnb Design
-      url: https://airbnb.design
-      logo: images/logos/AirbnbDesign.png
-      description: Airbnb Design
-    - title: Facebook Design
-      url: http://facebook.design/
-      logo: images/logos/FacebookDesign.png
-      description: Facebook Design
-    - title: Google Design
-      url: https://design.google/
-      logo: images/logos/GoogleDesign.png
-      description: Google Design
-    - title: eico design
-      url: http://eicodesign.com/
-      logo: images/logos/eico.png
-      description: 数字化咨询与产品专家
-    - title: nice design
-      url: http://www.niceui.cn/
-      logo: images/logos/niceui.png
-      description: nicedesign奈思设计是领先的用户体验设计与互联网品牌建设公司
-    - title: 腾讯CDC
-      url: http://cdc.tencent.com/
-      logo: images/logos/cdc.png
-      description: 腾讯CDC关注于互联网视觉设计、交互设计、用户研究、前端开发。
-    - title: TGideas
-      url: http://tgideas.qq.com/
-      logo: images/logos/tgideas.png
-      description: TGideas隶属于腾讯公司互动娱乐业务系统的专业推广类设计团队
-    - title: ISUX
-      url: https://isux.tencent.com/
-      logo: images/logos/isux.png
-      description: 腾讯社交用户体验设计部
-    - title: MXD
-      url: http://mxd.tencent.com/
-      logo: images/logos/mxd.png
-      description: 腾讯MIG无线互联网事业群设计团队
-    - title: Aliued
-      url: http://www.aliued.com/
-      logo: images/logos/aliued.png
-      description: 阿里巴巴国际UED团队
-    - title: U一点
-      url: http://www.aliued.cn/
-      logo: images/logos/aliuedcn.png
-      description: 阿里巴巴（中国站）用户体验设计部博客U一点设计 UED团队
-    - title: 网易uedc
-      url: http://uedc.163.com/
-      logo: images/logos/uedc.png
-      description: 网易用户体验设计中心（User Experience Design Center）
-    - title: 百度用户体验中心
-      url: http://ued.baidu.com/
-      logo: images/logos/uedbaidu.png
-      description: 百度用户体验中心
-    - title: 京东设计中心
-      url: http://jdc.jd.com/
-      logo: images/logos/JDC.png
-      description: 京东设计中心
-    - title: 百度企业产品用户体验中心
-      url: http://eux.baidu.com/
-      logo: images/logos/euxbaidu.png
-      description: 百度企业产品用户体验中心
-    - title: 携程设计委员会
-      url: http://ued.ctrip.com/
-      logo: images/logos/ctrip.png
-      description: 携程设计委员会-Ctrip Design Committee
-     
-
-
-
      
 - taxonomy: 友情链接
   icon: fa-link
@@ -329,16 +265,4 @@
     - title: iplaycode 演示站
       url: https://iplaycode.github.io/nav/
       description: iplaycode的demo导航网站
-    - title: bioit导航
-      url: https://www.bioit.top/
-      description:
-    - title: 所长导航
-      url: https://liutongxu.github.io/
-      description:
-    - title: 404导航
-      url: https://www.404dh.icu/
-      description: 只导航优质资源
-    - title: 飞猪ai导航
-      url: https://feizhuke.com/
-      description: AI工具集箱
   
