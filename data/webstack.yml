@@ -74,36 +74,32 @@
       description: UI设计师学习交流社区
     
 
-- taxonomy: 灵感采集
+- taxonomy: 论坛灌水
   icon: fa-lightbulb-o
   list: 
-    - term: 发现产品
+    - term: MJJ频道
       links:
-        - title: Producthunt
-          logo: images/logos/producthunt.png
-          url: https://www.producthunt.com/
-          description: 发现新鲜有趣的产品
-        - title: NEXT
-          logo: images/logos/NEXT.png
-          url: https://next.36kr.com/posts
-          description: 不错过任何一个新产品
-        - title: 少数派
-          logo: images/logos/sspai.png
-          url: https://sspai.com/
-          description: 高品质数字消费指南
-        - title: 利器
-          logo: images/logos/liqi.png
-          url: https://liqi.io/
-          description: 创造者和他们的工具
-        - title: Today
-          logo: images/logos/today.png
-          url: http://today.itjuzi.com/
-          description: 为身边的新产品喝彩
-        - title: 小众软件
-          logo: images/logos/appinn.png
-          url: https://faxian.appinn.com/
-          description: 在这里发现更多有趣的应用
-      
+        - title: hostloc
+          url: https://hostloc.com/forum-45-1.html
+          description: 全球vps主机交流论坛。
+        - title: nodeseek
+          url: https://www.nodeseek.com/
+          description: 有效的主机信息聚集地。
+        - title: openos
+          url: https://www.openos.org/
+          description: 黑群晖, 路由器, Linux, 虚拟化的论坛.。        
+        - title: 52pojie
+          url: https://www.52pojie.cn/
+          description: 一个致力于软件安全与病毒分析以及PC软件安全领域、移动安全领域技术交流的社区。
+        - title: 恩山无线
+          url: https://www.right.com.cn/forum/forum-72-1.html
+          description: 无线设备、硬件爱好者汇聚地
+        - title: 远景论坛
+          url: https://bbs.pcbeta.com/
+          description: 远景论坛
+        - title: 瀚思彼岸
+          url: https://bbs.hassbian.com/
+          description: Home Assistant智能家居技术论坛      
 
 
 - taxonomy: 常用工具
@@ -122,22 +118,22 @@
           url: https://www.ghxi.com/
           logo: images/logos/Illustrator.png
           description: 自称是互联网的净土。
-        - title: indesign
-          url: https://outlook.live.com/mail/0/
-          logo: images/logos/INDESIGN .png
-          description: 页面设计、布局和出版。
-        - title: cinema-4d
-          url: https://www.maxon.net/en/products/cinema-4d/overview/
-          logo: images/logos/cinema4d.png
-          description: Cinema 4D is the perfect package for all 3D artists who want to achieve breathtaking results fast and hassle-free.
-        - title: 3ds-max
-          url: https://www.autodesk.com/products/3ds-max/overview
-          logo: images/logos/3dsmax.png
-          description: 3D modeling, animation, and rendering software
-        - title: Blender
-          url: https://www.blender.org/
-          logo: images/logos/blender.png
-          description: Blender is the free and open source 3D creation suite.
+        - title: 少数派
+          logo: images/logos/sspai.png
+          url: https://sspai.com/
+          description: 高品质数字消费指南
+        - title: 利器
+          logo: images/logos/liqi.png
+          url: https://liqi.io/
+          description: 创造者和他们的工具
+        - title: Today
+          logo: images/logos/today.png
+          url: http://today.itjuzi.com/
+          description: 为身边的新产品喝彩
+        - title: 小众软件
+          logo: images/logos/appinn.png
+          url: https://faxian.appinn.com/
+          description: 在这里发现更多有趣的应用
           
     - term: 常用邮箱
       links:
