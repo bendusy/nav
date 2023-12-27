@@ -3,9 +3,9 @@
 - taxonomy: 常用推荐
   icon: fa-star
   links: 
-    - title: github
+    - title: github每日趋势
       logo: 
-      url: https://www.github.com/
+      url: https://github.com/trending
       description: Git Hub是一个基于web的版本控制和协作平台，主要用于存储、管理和分享开源代码和项目。
     - title: Medium
       url: https://medium.com/
@@ -40,39 +40,7 @@
     - title: 今日热榜
       url: https://tophub.today/
       description: 今日热榜
-    - title: 人人都是产品经理
-      logo: images/logos/woshipm.png
-      url: http://www.woshipm.com/
-      description: 产品经理、产品爱好者学习交流平台
-    - title: 互联网早读课
-      logo: images/logos/zaodula.png
-      url: https://www.zaodula.com/
-      description: 互联网行业深度阅读与学习平台
-    - title: 产品壹佰 
-      logo: images/logos/chanpin100.png
-      url: http://www.chanpin100.com/
-      description: 为产品经理爱好者提供最优质的产品资讯、原创内容和相关视频课程
-    - title: PMCAFF
-      logo: images/logos/pmcaff.png
-      url: http://www.pmcaff.com/
-      description: 中国第一产品经理人气组织，专注于研究互联网产品
-    - title: 爱运营
-      logo: images/logos/iyunying.png
-      url: http://www.iyunying.org/
-      description: 网站运营人员学习交流，专注于网站产品运营管理、淘宝运营。
-    - title: 鸟哥笔记
-      logo: images/logos/niaogebiji.png
-      url: http://www.niaogebiji.com/
-      description: 移动互联网第一干货平台
-    - title: 古田路9号
-      logo: images/logos/gtn9.png
-      url: http://www.gtn9.com/
-      description: 国内专业品牌创意平台
-    - title: 优阁网
-      logo: images/logos/uigreat.png
-      url: http://www.uigreat.com/
-      description: UI设计师学习交流社区
-    
+   
 
 - taxonomy: 论坛灌水
   icon: fa-lightbulb-o
@@ -85,22 +53,27 @@
         - title: nodeseek
           url: https://www.nodeseek.com/
           description: 有效的主机信息聚集地。
-        - title: openos
-          url: https://www.openos.org/
-          description: 黑群晖, 路由器, Linux, 虚拟化的论坛.。        
+         - title: 恩山无线
+          url: https://www.right.com.cn/forum/forum-72-1.html
+          description: 无线设备、硬件爱好者汇聚地
+        - title: iobroker
+          url: https://bbs.iobroker.cn/
+          description: 一个智能家居平台
         - title: 52pojie
           url: https://www.52pojie.cn/
           description: 一个致力于软件安全与病毒分析以及PC软件安全领域、移动安全领域技术交流的社区。
-        - title: 恩山无线
-          url: https://www.right.com.cn/forum/forum-72-1.html
-          description: 无线设备、硬件爱好者汇聚地
+       - title: openos
+          url: https://www.openos.org/
+          description: 黑群晖, 路由器, Linux, 虚拟化的论坛.。        
         - title: 远景论坛
           url: https://bbs.pcbeta.com/
           description: 远景论坛
         - title: 瀚思彼岸
           url: https://bbs.hassbian.com/
           description: Home Assistant智能家居技术论坛      
-
+        - title: V2EX
+          url: https://www.v2ex.com/
+          description: 创意工作者们的社区      
 
 - taxonomy: 常用工具
   icon: fa-diamond
@@ -111,6 +84,18 @@
           url: https://obsidian.md/
           logo: images/logos/photoshop.png
           description: obsidian笔记软件
+        - title: 截图软件
+          url: https://zh.snipaste.com/download.html
+          description: 免费. 免安装. 可个性定制。
+        - title: Ditto
+          url: https://github.com/sabrogden/Ditto/releases
+          description: 剪贴板软件。
+        - title: SmartSystemMenu
+          url: https://github.com/AlexanderPro/SmartSystemMenu/releases
+          description: SmartSystemMenu 扩展了系统中所有窗口的系统菜单
+        - title: BBLL
+          url: https://github.com/xiaye13579/BBLL/releases
+          description: 一个第三方哔哩哔哩客户端。
         - title: “反”斗软件
           url: https://www.apprcn.com/
           description: 关注个人软件和绿色软件。
@@ -166,18 +151,15 @@
           url: http://goqr.me/
           logo: images/logos/goqr.png
           description: create QR codes for free (Logo, T-Shirt, vCard, EPS)
-        - title: ezgif
-          url: https://ezgif.com
-          logo: images/logos/ezgif.png
-          description: simple online GIF maker and toolset for basic animated GIF editing.
-        - title: Android 9 patch
-          url: http://inloop.github.io/shadow4android/
-          logo: images/logos/Android9patch.png
-          description: Android 9-patch shadow generator fully customizable shadows
-        - title: screen sizes
-          url: http://screensiz.es/
-          logo: images/logos/screensizes.png
-          description: Viewport Sizes and Pixel Densities for Popular Devices
+        - title: IP工具箱
+          url: https://ip.nciex.com/
+          description: IP工具箱.
+        - title: 常用脚本大全
+          url: https://www.nodeseek.com/post-19427-1
+          description: 常用脚本大全
+        - title: docker命令转docker-compose文件
+          url: https://www.mklab.cn/utils/docker
+          description: docker命令转docker-compose文件
         - title: svgomg
           url: https://jakearchibald.github.io/svgomg/
           logo: images/logos/svgomg.png
