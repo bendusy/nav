@@ -80,7 +80,6 @@
       links:
         - title: obsidian
           url: https://obsidian.md/
-          logo: images/logos/photoshop.png
           description: obsidian笔记软件
         - title: 截图软件
           url: https://zh.snipaste.com/download.html
