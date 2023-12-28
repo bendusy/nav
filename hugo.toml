@@ -1,13 +1,13 @@
 baseURL = "https://nav.hssq.cc/"
 languageCode = "zh-CN"
-title = "郊居"
+title = "迷航返路"
 theme = "hugo-webstack"
 
 #true:允许大写字母url路径，false:将url路径转换成小写
 disablePathToLower = true
 
 #页脚：作者名字
-copyright = "oulh"
+copyright = "bendusy"
 
 #网站信息，不显示，仅供搜索引擎参考
 [params]
@@ -27,9 +27,9 @@ copyright = "oulh"
   # true显示按钮，false不显示
   enable = true
   # 站点对应的github仓库链接
-  url = "https://github.com/oulh/nav/blob/main/data/webstack.yml"
+  url = "https://github.com/bendusy/nav/blob/main/data/webstack.yml"
   
 #桌面端右上角github按钮
 [params.github]
   enable = true
-  url = "https://github.com/oulh/nav"
+  url = "https://github.com/bendusy/nav"
