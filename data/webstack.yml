@@ -38,7 +38,15 @@
     - title: 今日热榜
       url: https://tophub.today/
       description: 今日热榜
-   
+    - title: Weekly Hub
+      url: https://www.fre123.com/weekly/
+      description: 技术周刊精选推荐
+    - title: 阮一峰的网络日志
+      url: https://www.ruanyifeng.com/blog/
+      description: 科技爱好者周刊
+
+
+      
 
 - taxonomy: 论坛灌水
   icon: fa-lightbulb-o
