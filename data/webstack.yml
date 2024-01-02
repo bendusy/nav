@@ -1,5 +1,20 @@
 ---
 
+- taxonomy: AI相关
+  icon: fa-star
+  links: 
+    - title: 国内chatgpt反代站 
+      url: https://uu.ci/register?aff=JjzA
+      description: 免费使用，注册即送10刀额度
+    - title: coze 
+      url: https://www.coze.com/
+      description: 免费站之一，字节出品，全英文
+    - title: 又一个反代站 
+      url: https://ai.nciex.com/
+      description: 借助lobe-chat搭建
+     - title: chatgpt 
+      url: https://chat.openai.com/
+      description: openai     
 - taxonomy: 常用推荐
   icon: fa-star
   links: 
@@ -12,9 +27,6 @@
     - title: NCIEX
       url: https://nciex.com/
       description: 高质量博客
-    - title: chatgpt 
-      url: https://chat.openai.com/
-      description: openai
     - title: cloudflare
       url: https://www.cloudflare.com/
       description: Cloudflare 是一个提供全球连通云服务的公司，帮助企业在任何地方工作、交付和创新。
