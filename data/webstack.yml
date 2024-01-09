@@ -165,10 +165,10 @@
           logo: 
           url: https://cli.im/url
           description: 二维码演示，手机扫一扫，也可以点击
-        - title: tinypng
-          url: https://tinypng.com/
+        - title: 订阅转换
+          url: https://sub.hssq.cc/
           logo: images/logos/tinypng.png
-          description: Optimize your images with a perfect balance in quality and file size.
+          description: 偷偷放在这
         - title: goqr
           url: http://goqr.me/
           logo: images/logos/goqr.png
