@@ -169,6 +169,10 @@
           url: https://sub.hssq.cc/
           logo: images/logos/tinypng.png
           description: 偷偷放在这
+        - title: sing-box订阅转换
+          url: https://sub2.hssq.cc/
+          logo: images/logos/tinypng.png
+          description: 支持sing-box的订阅
         - title: goqr
           url: http://goqr.me/
           logo: images/logos/goqr.png
