@@ -180,6 +180,9 @@
         - title: IP工具箱
           url: https://ip.nciex.com/
           description: IP工具箱.
+        - title: DNS泄露查询
+          url: https://ipleak.net/
+          description: DNS泄露查询.
         - title: 常用脚本大全
           url: https://www.nodeseek.com/post-19427-1
           description: 常用脚本大全
