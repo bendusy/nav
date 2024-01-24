@@ -173,10 +173,9 @@
           url: https://sub2.hssq.cc/
           logo: images/logos/tinypng.png
           description: 支持sing-box的订阅
-        - title: goqr
-          url: http://goqr.me/
-          logo: images/logos/goqr.png
-          description: create QR codes for free (Logo, T-Shirt, vCard, EPS)
+        - title: 我知道你在下载什么
+          url: https://iknowwhatyoudownload.com/
+          description: 要不看看你下载的内容？
         - title: IP工具箱
           url: https://ip.nciex.com/
           description: IP工具箱.
