@@ -15,8 +15,7 @@
     - title: chatgpt 
       url: https://chat.openai.com/
       description: openai     
-
-  - term: AI写作工具
+ - taxonomy: AI写作工具
       links:
         - title: Smart Excel 
           url: https://www.smartexcel.cc/
