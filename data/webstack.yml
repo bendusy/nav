@@ -14,7 +14,10 @@
       description: 借助lobe-chat搭建
     - title: chatgpt 
       url: https://chat.openai.com/
-      description: openai     
+      description: openai    
+      
+
+
  - taxonomy: AI写作工具
       links:
         - title: Smart Excel 
