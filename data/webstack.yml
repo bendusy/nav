@@ -59,11 +59,15 @@
     - title: 阮一峰的网络日志
       url: https://www.ruanyifeng.com/blog/
       description: 科技爱好者周刊
-    - title: chasetrend
-      url: https://chasetrend.news/zh
-      description: 外网趋势
-
-      
+    - title: TOAJ
+      url: https://toaj.stpi.narl.org.tw/index?dt_dapp=1
+      description: 这个平台提供了人文社科相关的期刊免费下载和在线阅读功能。 
+    - title:永乐大典
+      url: https://yongle.shidianguji.com/
+      description: 这个高清的影像数据库，以 3D 的形式展示了国家图书馆馆藏的 40 册 75 卷永乐大典的内容。 
+    - title: TOAJ
+      url: https://toaj.stpi.narl.org.tw/index?dt_dapp=1
+      description: 这个平台提供了人文社科相关的期刊免费下载和在线阅读功能。       
 
 - taxonomy: 论坛灌水
   icon: fa-lightbulb-o
@@ -158,16 +162,53 @@
           description: 国内邮箱中广告最少的      
 
 
-    - term: 在线工具
+    - term: AI工具
       links:
-        - title: 二维码演示
-          qrcode: images/qrcodes/cli.png
-          logo: 
-          url: https://cli.im/url
-          description: 二维码演示，手机扫一扫，也可以点击
+        - title: Smart Excel 
+          url: https://www.smartexcel.cc/
+          description: 这是一个通过 AI 根据输入的描述来生成 Excel 公式的工具，登录后可以免费使用。 
+        - title: 大盘云图
+          url: https://dapanyuntu.com/
+          decription:  这是一个通过大盘展示股票信息的工具，其中面积代表流通市值，颜色代表涨跌幅度。 
+        - title: Runway 
+          url: https://www.smartexcel.cc/
+          description: 基于 AI 通过文本描述来生成视频，登录后可以免费生成 105 s 视频
+        - title: 灵鹿 
+          url: https://linglu.pro/
+          description: 无需登录可以免费使用的在线 AI 文案生成工具，可以撰写各类型文案、周报等等。
+        - title: Generate Function 
+          url: https://www.programming-helper.com/generate-function
+          description: 开这个网站之后，输入自然语言，就可以自动生成代码。 
+        - title: 帮我写文案
+          url: https://www.wenanabc.xyz/
+          description: 免费 AI 在线文案撰写工具，自可以快速生成类似小红书格式的文案内容。         
+        - title: 据意查句 
+          url: https://wantquotes.net/
+          description:  清华出品的神奇，输入描述，就可以找到相应的名言名句。 
+
+
+
+
+
+
+
+
+    - term: 在线工具
+      links:      
+        - title: Free For Dev
+          url: https://free-for.dev/
+          description:  这个网站收集了大量面向开发者的免费服务，并且只有免费时间一年以上的服务才会被收录。          
         - title: 订阅转换
           url: https://sub.hssq.cc/
-          logo: images/logos/tinypng.png
+          description: 偷偷放在这
+
+
+
+
+    - term: 在线工具
+      links:      
+        - title: 订阅转换
+          url: https://sub.hssq.cc/
           description: 偷偷放在这
         - title: sing-box订阅转换
           url: https://sub2.hssq.cc/
@@ -188,10 +229,9 @@
         - title: docker命令转docker-compose文件
           url: https://www.mklab.cn/utils/docker
           description: docker命令转docker-compose文件
-        - title: 稿定抠图
-          url: https://www.gaoding.com
-          logo: images/logos/gaoding.png
-          description: 免费在线抠图软件,图片快速换背景-抠白底图
+        - title: Icon Kitchen
+          url: https://icon.kitchen/
+          description:  这个工具可以快速生成支持各个平台的应用程序图标，支持各种参数调整，无需登录，可以免费使用。 
        
 - taxonomy: 友情链接
   icon: fa-link
