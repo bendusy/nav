@@ -15,6 +15,14 @@
     - title: chatgpt 
       url: https://chat.openai.com/
       description: openai     
+    - title: chatgpt 
+      url: https://chat.openai.com/
+      description: openai     
+    - title: AI写作导师（国内版） 
+      url: https://www.coze.cn/store/bot/7348686032306651145?panel=1&bid=MDQEEDLNOjYbElC5PBSOD8ok_fgEHgC9MKxyxz8lZbrs8Vd-_StKLl3p2r-HXSfiEu1GYwQA
+      description: AI写作导师（国内版）   
+   - title: TechBOT 
+      url: https://国外版    
 - taxonomy: 常用推荐
   icon: fa-star
   links: 
