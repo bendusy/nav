@@ -142,7 +142,8 @@
           logo: images/logos/appinn.png
           url: https://faxian.appinn.com/
           description: 在这里发现更多有趣的应用
-          
+        - title: N8N
+          url: https://n8n.nciex.com/
     - term: 常用邮箱
       links:
         - title: outlook
