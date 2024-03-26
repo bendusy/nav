@@ -16,10 +16,8 @@
       url: https://chat.openai.com/
       description: openai    
       
-
-
  - taxonomy: AI写作工具
-      links:
+   links:
         - title: Smart Excel 
           url: https://www.smartexcel.cc/
           description: 这是一个通过 AI 根据输入的描述来生成 Excel 公式的工具，登录后可以免费使用。 
@@ -35,16 +33,6 @@
         - title: 据意查句 
           url: https://www.shenyandayi.com/
           description:  清华出品的神奇，输入描述，就可以找到相应的名言名句。 
-
-
-
-
-
-
-
-
-
-
 
 
 
