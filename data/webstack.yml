@@ -22,7 +22,7 @@
       url: https://github.com/trending
       description: Git Hub是一个基于web的版本控制和协作平台，主要用于存储、管理和分享开源代码和项目。
     - title: NCIEX
-      url: https://aio.nciex.com/
+      url: https://blog.nciex.com/
       description: 高质量博客
     - title: cloudflare
       url: https://www.cloudflare.com/
@@ -36,10 +36,10 @@
       description: 拓竹提供3D打印模型网站，专注于DIY和创客文化。
     - title: thangs
       url: https://thangs.com
-      description: 
+      description: Thangs是一个3D模型搜索引擎，支持模型预览和下载。
     - title: printables
       url: https://www.printables.com/
-      description: 
+      description: 提供免费和付费的3D打印模型，社区驱动的平台。
 
 - taxonomy: 文字阅读
   icon: fa-newspaper-o
@@ -65,9 +65,7 @@
 
 - taxonomy: 论坛灌水
   icon: fa-lightbulb-o
-  links: 
-    - term: MJJ频道
-      links:
+    links:
         - title: hostloc
           url: https://hostloc.com/forum-45-1.html
           description: 全球vps主机交流论坛。
@@ -76,10 +74,10 @@
           description: 有效的主机信息聚集地。
         - title: 恩山无线
           url: https://www.right.com.cn/forum/forum-72-1.html
-          description: 无线设备、硬件爱好者汇聚地。
+          description: 无线设备、硬件爱好者汇聚地
         - title: iobroker
           url: https://bbs.iobroker.cn/
-          description: 一个智能家居平台。
+          description: 一个智能家居平台
         - title: 52pojie
           url: https://www.52pojie.cn/
           description: 一个致力于软件安全与病毒分析以及PC软件安全领域、移动安全领域技术交流的社区。
@@ -88,22 +86,24 @@
           description: 黑群晖, 路由器, Linux, 虚拟化的论坛。
         - title: 远景论坛
           url: https://bbs.pcbeta.com/
-          description: 远景论坛。
+          description: 远景论坛
         - title: 瀚思彼岸
           url: https://bbs.hassbian.com/
-          description: Home Assistant智能家居技术论坛。
+          description: Home Assistant智能家居技术论坛
 
-    - term: 常用邮箱
-      links:
+- taxonomy: 常用邮箱
+  icon: fa-lightbulb-o
+    links:
         - title: outlook
           url: https://outlook.live.com/
-          description: ms的邮箱，稳稳的。
+          description: ms的邮箱，稳稳的
         - title: Gmail
           url: https://mail.google.com/
-          description: Gmail主力邮箱。
+          description: Gmail主力      
 
-    - term: 在线工具
-      links:      
+- taxonomy: 在线工具
+  icon: fa-lightbulb-o
+     links:      
 
         - title: 我知道你在下载什么
           url: https://iknowwhatyoudownload.com/
@@ -123,7 +123,7 @@
        
 - taxonomy: 友情链接
   icon: fa-link
-  friend:
+     friend:
     - title: 高质量博客
       url: https://nciex.com/
       description: 俺的博客
