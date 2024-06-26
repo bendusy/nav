@@ -1,5 +1,4 @@
 ---
-
 - taxonomy: AI搜索
   icon: fa-star
   links: 
@@ -12,7 +11,6 @@
     - title: 天工AI 
       url: https://www.tiangong.cn/
       description:  
-
 
 - taxonomy: 常用推荐
   icon: fa-star
@@ -30,11 +28,22 @@
       url: https://www.cloudflare.com/
       description: Cloudflare 是一个提供全球连通云服务的公司，帮助企业在任何地方工作、交付和创新。
 
+- taxonomy: 3D打印
+  icon: fa-cube
+  links:
+    - title: 创客贴
+      url: https://www.creativetie.cn/
+      description: 提供3D打印服务和教程，专注于DIY和创客文化。
+    - title: 3D打印之家
+      url: https://www.3dprintinghome.cn/
+      description: 中文3D打印社区，分享3D打印模型和技术交流。
+    - title: 必维国际
+      url: https://www.bv3d.cn/
+      description: 面向专业人士和教育机构的3D打印设备和服务提供商。
 
 - taxonomy: 文字阅读
   icon: fa-newspaper-o
   links: 
-  
     - title: readhub
       url: https://readhub.cn/
       description: 比较喜欢白色背景的，容易摸鱼
@@ -49,54 +58,12 @@
       description: 科技爱好者周刊
     - title: TOAJ
       url: https://toaj.stpi.narl.org.tw/index?dt_dapp=1
-      description: 这个平台提供了人文社科相关的期刊免费下载和在线阅读功能。 
+      description: 这个平台提供了人文社科相关的期刊免费下载和在线阅读功能。
     - title: 永乐大典
       url: https://yongle.shidianguji.com/
-      description: 这个高清的影像数据库，以 3D 的形式展示了国家图书馆馆藏的 40 册 75 卷永乐大典的内容。 
+      description: 这个高清的影像数据库，以 3D 的形式展示了国家图书馆馆藏的 40 册 75 卷永乐大典的内容。
 
 - taxonomy: 论坛灌水
-  icon: fa-lightbulb-o
-  list: 
-    - term: MJJ频道
-      links:
-        - title: hostloc
-          url: https://hostloc.com/forum-45-1.html
-          description: 全球vps主机交流论坛。
-        - title: nodeseek
-          url: https://www.nodeseek.com/
-          description: 有效的主机信息聚集地。
-        - title: 恩山无线
-          url: https://www.right.com.cn/forum/forum-72-1.html
-          description: 无线设备、硬件爱好者汇聚地
-        - title: iobroker
-          url: https://bbs.iobroker.cn/
-          description: 一个智能家居平台
-        - title: 52pojie
-          url: https://www.52pojie.cn/
-          description: 一个致力于软件安全与病毒分析以及PC软件安全领域、移动安全领域技术交流的社区。
-        - title: openos
-          url: https://www.openos.org/
-          description: 黑群晖, 路由器, Linux, 虚拟化的论坛.。        
-        - title: 远景论坛
-          url: https://bbs.pcbeta.com/
-          description: 远景论坛
-        - title: 瀚思彼岸
-          url: https://bbs.hassbian.com/
-          description: Home Assistant智能家居技术论坛      
-        - title: V2EX
-          url: https://www.v2ex.com/
-          description: 创意工作者们的社区      
-
-- taxonomy: 常用工具
-  icon: fa-diamond
-  list: 
-    - term: 常用软件
-      links:
-        - title: obsidian
-          url: https://obsidian.md/
-          description: obsidian笔记软件
-        - title: 截图软件
-          url: https://zh.snipaste.com/download.html
           description: 免费. 免安装. 可个性定制。
         - title: Ditto
           url: https://github.com/sabrogden/Ditto/releases
