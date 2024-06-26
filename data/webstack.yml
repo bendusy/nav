@@ -64,7 +64,7 @@
       description: 这个高清的影像数据库，以 3D 的形式展示了国家图书馆馆藏的 40 册 75 卷永乐大典的内容。
 
 - taxonomy: 论坛灌水
-          description: 免费. 免安装. 可个性定制。
+          
         - title: Ditto
           url: https://github.com/sabrogden/Ditto/releases
           description: 剪贴板软件。
