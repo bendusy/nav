@@ -31,15 +31,15 @@
 - taxonomy: 3D打印
   icon: fa-cube
   links:
-    - title: 创客贴
-      url: https://www.creativetie.cn/
-      description: 提供3D打印服务和教程，专注于DIY和创客文化。
-    - title: 3D打印之家
-      url: https://www.3dprintinghome.cn/
-      description: 中文3D打印社区，分享3D打印模型和技术交流。
-    - title: 必维国际
-      url: https://www.bv3d.cn/
-      description: 面向专业人士和教育机构的3D打印设备和服务提供商。
+    - title: makerworld
+      url: https://makerworld.com.cn/zh
+      description: 拓竹提供3D打印模型网站，专注于DIY和创客文化。
+    - title: thangs
+      url: https://thangs.com
+      description: 
+    - title: printables
+      url: https://www.printables.com/
+      description: 
 
 - taxonomy: 文字阅读
   icon: fa-newspaper-o
