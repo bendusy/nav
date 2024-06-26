@@ -1,29 +1,19 @@
 ---
 
-- taxonomy: AI相关
+- taxonomy: AI搜索
   icon: fa-star
   links: 
-    - title: 国内chatgpt反代站 
-      url: https://api.openai-ch.top/register?aff=P1UC
-      description: 免费使用，注册即送1刀额度
-    - title: coze 
-      url: https://www.coze.com/
-      description: 免费站之一，字节出品，全英文
-    - title: 又一个反代站 
-      url: https://ai.nciex.com/
-      description: 借助lobe-chat搭建
-    - title: chatgpt 
-      url: https://chat.openai.com/
-      description: openai     
-    - title: chatgpt 
-      url: https://chat.openai.com/
-      description: openai     
-    - title: AI写作导师（国内版） 
-      url: https://www.coze.cn/store/bot/7348686032306651145?panel=1&bid=MDQEEDLNOjYbElC5PBSOD8ok_fgEHgC9MKxyxz8lZbrs8Vd-_StKLl3p2r-HXSfiEu1GYwQA
-      description: AI写作导师（国内版）   
-   - title: TechBOT 国外版 
-      url: https://https://www.coze.com/space/7348463533690470401/bot/7348771505029332999
-         
+    - title: perplexity
+      url: https://www.perplexity.ai/
+      description: 
+    - title: miku 
+      url: https://hellomiku.com
+      description:  
+    - title: 天工AI 
+      url: https://www.tiangong.cn/
+      description:  
+
+
 - taxonomy: 常用推荐
   icon: fa-star
   links: 
@@ -39,23 +29,12 @@
     - title: cloudflare
       url: https://www.cloudflare.com/
       description: Cloudflare 是一个提供全球连通云服务的公司，帮助企业在任何地方工作、交付和创新。
-    - title: Youtube
-      url: https://www.youtube.com/
-      description: 全球最大的学习分享平台
-    - title: Google
-      url: https://www.google.com/
-      description: 全球最大的UI学习分享平台
-    
+
 
 - taxonomy: 文字阅读
   icon: fa-newspaper-o
   links: 
-    - title: Zlib
-      url: https://zlib.pro/
-      description: 全球最大电子书库
-    - title: 抽屉新热榜
-      url: https://dig.chouti.com/
-      description: 比较好看的新闻聚合平台
+  
     - title: readhub
       url: https://readhub.cn/
       description: 比较喜欢白色背景的，容易摸鱼
@@ -169,64 +148,13 @@
           description: 国内邮箱中广告最少的      
 
 
-    - term: AI工具
-      links:
-        - title: Smart Excel 
-          url: https://www.smartexcel.cc/
-          description: 这是一个通过 AI 根据输入的描述来生成 Excel 公式的工具，登录后可以免费使用。 
-        - title: 大盘云图
-          url: https://dapanyuntu.com/
-          decription:  这是一个通过大盘展示股票信息的工具，其中面积代表流通市值，颜色代表涨跌幅度。 
-        - title: Runway 
-          url: https://www.smartexcel.cc/
-          description: 基于 AI 通过文本描述来生成视频，登录后可以免费生成 105 s 视频
-        - title: 灵鹿 
-          url: https://linglu.pro/
-          description: 无需登录可以免费使用的在线 AI 文案生成工具，可以撰写各类型文案、周报等等。
-        - title: Generate Function 
-          url: https://www.programming-helper.com/generate-function
-          description: 开这个网站之后，输入自然语言，就可以自动生成代码。 
-        - title: 帮我写文案
-          url: https://www.wenanabc.xyz/
-          description: 免费 AI 在线文案撰写工具，自可以快速生成类似小红书格式的文案内容。         
-        - title: 据意查句 
-          url: https://wantquotes.net/
-          description:  清华出品的神奇，输入描述，就可以找到相应的名言名句。 
-
-
-
-
-
-
-
 
     - term: 在线工具
       links:      
-        - title: Free For Dev
-          url: https://free-for.dev/
-          description:  这个网站收集了大量面向开发者的免费服务，并且只有免费时间一年以上的服务才会被收录。          
-        - title: 订阅转换
-          url: https://sub.hssq.cc/
-          description: 偷偷放在这
 
-
-
-
-    - term: 在线工具
-      links:      
-        - title: 订阅转换
-          url: https://sub.hssq.cc/
-          description: 偷偷放在这
-        - title: sing-box订阅转换
-          url: https://sub2.hssq.cc/
-          logo: images/logos/tinypng.png
-          description: 支持sing-box的订阅
         - title: 我知道你在下载什么
           url: https://iknowwhatyoudownload.com/
           description: 要不看看你下载的内容？
-        - title: IP工具箱
-          url: https://ip.nciex.com/
-          description: IP工具箱.
         - title: DNS泄露查询
           url: https://ipleak.net/
           description: DNS泄露查询.
