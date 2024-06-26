@@ -65,7 +65,7 @@
 
 - taxonomy: 论坛灌水
   icon: fa-lightbulb-o
-    links:
+  links:
         - title: hostloc
           url: https://hostloc.com/forum-45-1.html
           description: 全球vps主机交流论坛。
@@ -93,7 +93,7 @@
 
 - taxonomy: 常用邮箱
   icon: fa-lightbulb-o
-    links:
+  links:
         - title: outlook
           url: https://outlook.live.com/
           description: ms的邮箱，稳稳的
@@ -103,7 +103,7 @@
 
 - taxonomy: 在线工具
   icon: fa-lightbulb-o
-     links:      
+  links:      
 
         - title: 我知道你在下载什么
           url: https://iknowwhatyoudownload.com/
@@ -123,7 +123,7 @@
        
 - taxonomy: 友情链接
   icon: fa-link
-     friend:
+  friend:
     - title: 高质量博客
       url: https://nciex.com/
       description: 俺的博客
