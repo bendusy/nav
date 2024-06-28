@@ -21,6 +21,37 @@
       url: https://www.tiangong.cn/
       description:  
 
+- taxonomy: 论坛灌水
+  icon: fa-lightbulb-o
+  links:
+    - title: Let's do it with linux
+      url: https://linux.do/
+      description: 真诚、友善、团结、专业，共建你我引以为荣之社区。
+    - title: hostloc
+      url: https://hostloc.com/forum-45-1.html
+      description: 全球vps主机交流论坛。
+    - title: nodeseek
+      url: https://www.nodeseek.com/
+      description: 有效的主机信息聚集地。
+    - title: 恩山无线
+      url: https://www.right.com.cn/forum/forum-72-1.html
+      description: 无线设备、硬件爱好者汇聚地
+    - title: iobroker
+      url: https://bbs.iobroker.cn/
+      description: 一个智能家居平台
+    - title: 52pojie
+      url: https://www.52pojie.cn/
+      description: 一个致力于软件安全与病毒分析以及PC软件安全领域、移动安全领域技术交流的社区。
+    - title: openos
+      url: https://www.openos.org/
+      description: 黑群晖, 路由器, Linux, 虚拟化的论坛。
+    - title: 远景论坛
+      url: https://bbs.pcbeta.com/
+      description: 远景论坛
+    - title: 瀚思彼岸
+      url: https://bbs.hassbian.com/
+      description: Home Assistant智能家居技术论坛
+
 - taxonomy: 常用推荐
   icon: fa-star
   links: 
@@ -71,37 +102,6 @@
     - title: 永乐大典
       url: https://yongle.shidianguji.com/
       description: 这个高清的影像数据库，以 3D 的形式展示了国家图书馆馆藏的 40 册 75 卷永乐大典的内容。
-
-- taxonomy: 论坛灌水
-  icon: fa-lightbulb-o
-  links:
-        - title: Let's do it with linux
-          url: https://linux.do/
-          description: 真诚、友善、团结、专业，共建你我引以为荣之社区。
-        - title: hostloc
-          url: https://hostloc.com/forum-45-1.html
-          description: 全球vps主机交流论坛。
-        - title: nodeseek
-          url: https://www.nodeseek.com/
-          description: 有效的主机信息聚集地。
-        - title: 恩山无线
-          url: https://www.right.com.cn/forum/forum-72-1.html
-          description: 无线设备、硬件爱好者汇聚地
-        - title: iobroker
-          url: https://bbs.iobroker.cn/
-          description: 一个智能家居平台
-        - title: 52pojie
-          url: https://www.52pojie.cn/
-          description: 一个致力于软件安全与病毒分析以及PC软件安全领域、移动安全领域技术交流的社区。
-        - title: openos
-          url: https://www.openos.org/
-          description: 黑群晖, 路由器, Linux, 虚拟化的论坛。
-        - title: 远景论坛
-          url: https://bbs.pcbeta.com/
-          description: 远景论坛
-        - title: 瀚思彼岸
-          url: https://bbs.hassbian.com/
-          description: Home Assistant智能家居技术论坛
 
 - taxonomy: 常用邮箱
   icon: fa-lightbulb-o
