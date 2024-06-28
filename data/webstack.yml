@@ -116,7 +116,9 @@
 - taxonomy: 在线工具
   icon: fa-lightbulb-o
   links:      
-
+        - title: 在线免费logo设计
+          url: https://logogalleria.com/zh-CN/app
+          description: 在线免费logo设计
         - title: 我知道你在下载什么
           url: https://iknowwhatyoudownload.com/
           description: 要不看看你下载的内容？
