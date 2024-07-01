@@ -80,6 +80,10 @@
     - title: printables
       url: https://www.printables.com/
       description: 提供免费和付费的3D打印模型，社区驱动的平台。
+    - title: Microsoft Designer
+      url: https://designer.microsoft.com/
+      description: 完全免费！最强 AI 平面设计工具。
+
 
 - taxonomy: 文字阅读
   icon: fa-newspaper-o
