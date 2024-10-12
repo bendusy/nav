@@ -1,164 +1,155 @@
 ---
-- taxonomy: AI搜索
-  icon: fa-star
-  links: 
-    - title: perplexity
-      url: https://www.perplexity.ai/
-      description: 
-    - title: 代码ai搜索
-      url: https://devv.ai/zh
-      description: 
-    - title: v0dev
-      url: https://v0.dev/chat
-      description: 
-    - title: duckduckgo
-      url: https://duckduckgo.com/?q=DuckDuckGo&ia=chat
-      description: 
+- taxonomy: AI与搜索工具
+  icon: fa-robot
+  links:
+    - title: 通义千问
+      url: https://tongyi.aliyun.com/
+      description: 阿里巴巴开发的大型语言模型,可进行自然语言对话和信息检索
+    - title: 深度求索
+      url: https://chat.deepseek.com/
+      description: 基于深度学习的智能对话系统
+    - title: MemFree
+      url: https://www.memfree.me/
+      description: 更快解锁准确答案
+    - title: 硅流
+      url: https://siliconflow.cn/
+      description: 专注于AI芯片和算法的技术平台
     - title: 秘塔
       url: https://metaso.cn/
-      description: 
-    - title: miku 
+      description: 元搜索引擎,整合多个搜索引擎结果
+    - title: 米库
       url: https://hellomiku.com
-      description:  
+      description: AI驱动的智能搜索和问答平台
     - title: 天工AI 
       url: https://www.tiangong.cn/
-      description:  
+      description: 昆仑万维开发的大规模预训练语言模型
     - title: 深言达意
       url: https://www.shenyandayi.com/
+      description: 基于深度学习的自然语言处理平台
 
-- taxonomy: 论坛灌水
-  icon: fa-lightbulb-o
+- taxonomy: 技术社区与论坛
+  icon: fa-comments
   links:
     - title: Let's do it with linux
       url: https://linux.do/
-      description: 真诚、友善、团结、专业，共建你我引以为荣之社区。
+      description: 专注于Linux技术交流的社区平台
     - title: hostloc
       url: https://hostloc.com/forum-45-1.html
-      description: 全球vps主机交流论坛。
+      description: 全球VPS主机交流论坛,讨论各类主机和网络技术
     - title: nodeseek
       url: https://www.nodeseek.com/
-      description: 有效的主机信息聚集地。
+      description: 主机信息聚集地,提供VPS测评和优惠信息
     - title: 恩山无线
       url: https://www.right.com.cn/forum/forum-72-1.html
-      description: 无线设备、硬件爱好者汇聚地
+      description: 专注于无线设备和硬件技术的论坛
     - title: iobroker
       url: https://bbs.iobroker.cn/
-      description: 一个智能家居平台
+      description: 开源智能家居平台,讨论家庭自动化技术
     - title: 52pojie
       url: https://www.52pojie.cn/
-      description: 一个致力于软件安全与病毒分析以及PC软件安全领域、移动安全领域技术交流的社区。
+      description: 专注软件安全、逆向工程和移动安全的技术论坛
     - title: openos
       url: https://www.openos.org/
-      description: 黑群晖, 路由器, Linux, 虚拟化的论坛。
+      description: 讨论黑群晖、路由器、Linux和虚拟化技术的论坛
     - title: 远景论坛
       url: https://bbs.pcbeta.com/
-      description: 远景论坛
+      description: 综合性技术论坛,涵盖硬件、软件和系统优化
     - title: 瀚思彼岸
       url: https://bbs.hassbian.com/
-      description: Home Assistant智能家居技术论坛
+      description: Home Assistant智能家居技术交流平台
 
-- taxonomy: 常用推荐
-  icon: fa-star
+- taxonomy: 生产力工具
+  icon: fa-tasks
   links: 
-    - title: To Do
+    - title: Microsoft To Do
       url: https://to-do.live.com/tasks/
-      description: Microsoft To Do
-    - title: github每日趋势
+      description: 微软开发的任务管理和待办事项应用
+    - title: GitHub Trending
       url: https://github.com/trending
-      description: Git Hub是一个基于web的版本控制和协作平台，主要用于存储、管理和分享开源代码和项目。
+      description: 展示GitHub上当前最热门的开源项目
     - title: NCIEX
       url: https://aio.nciex.com/
-      description: 高质量博客
-    - title: cloudflare
+      description: 高质量技术博客聚合平台
+    - title: Cloudflare
       url: https://www.cloudflare.com/
-      description: Cloudflare 是一个提供全球连通云服务的公司，帮助企业在任何地方工作、交付和创新。
+      description: 提供CDN、DDoS防护等网络服务的公司
 
-- taxonomy: 3D打印
+- taxonomy: 3D打印与设计
   icon: fa-cube
   links:
-    - title: makerworld
+    - title: Makerworld
       url: https://makerworld.com.cn/zh
-      description: 拓竹提供3D打印模型网站，专注于DIY和创客文化。
-    - title: thangs
+      description: 中文3D打印模型分享平台,面向DIY爱好者
+    - title: Thangs
       url: https://thangs.com
-      description: Thangs是一个3D模型搜索引擎，支持模型预览和下载。
-    - title: printables
+      description: 3D模型搜索引擎,支持模型预览和下载
+    - title: Printables
       url: https://www.printables.com/
-      description: 提供免费和付费的3D打印模型，社区驱动的平台。
+      description: 社区驱动的3D打印模型分享平台
     - title: Microsoft Designer
       url: https://designer.microsoft.com/
-      description: 完全免费！最强 AI 平面设计工具。
+      description: 微软推出的AI驱动平面设计工具,完全免费
 
-
-- taxonomy: 文字阅读
-  icon: fa-newspaper-o
+- taxonomy: 资讯与阅读
+  icon: fa-book
   links: 
-    - title: readhub
+    - title: Readhub
       url: https://readhub.cn/
-      description: 比较喜欢白色背景的，容易摸鱼
+      description: 科技资讯聚合平台,界面简洁易于浏览
     - title: 今日热榜
       url: https://tophub.today/
-      description: 今日热榜
+      description: 聚合各大网站热门内容的资讯平台
     - title: Weekly Hub
       url: https://www.fre123.com/weekly/
-      description: 技术周刊精选推荐
+      description: 精选各类技术周刊的推荐平台
     - title: 阮一峰的网络日志
       url: https://www.ruanyifeng.com/blog/
-      description: 科技爱好者周刊
+      description: 知名技术博主,发布"科技爱好者周刊"
     - title: TOAJ
       url: https://toaj.stpi.narl.org.tw/index?dt_dapp=1
-      description: 这个平台提供了人文社科相关的期刊免费下载和在线阅读功能。
+      description: 提供人文社科期刊免费下载和在线阅读
     - title: 永乐大典
       url: https://yongle.shidianguji.com/
-      description: 这个高清的影像数据库，以 3D 的形式展示了国家图书馆馆藏的 40 册 75 卷永乐大典的内容。
+      description: 以3D形式展示国家图书馆馆藏永乐大典的数字平台
 
-- taxonomy: 常用邮箱
-  icon: fa-lightbulb-o
+- taxonomy: 电子邮箱服务
+  icon: fa-envelope
   links:
-        - title: outlook
-          url: https://outlook.live.com/
-          description: ms的邮箱，稳稳的
-        - title: Gmail
-          url: https://mail.google.com/
-          description: Gmail主力      
+    - title: Outlook
+      url: https://outlook.live.com/
+      description: 微软提供的稳定可靠的邮箱服务
+    - title: Gmail
+      url: https://mail.google.com/
+      description: Google提供的功能强大的邮箱服务
 
-- taxonomy: 在线工具
-  icon: fa-lightbulb-o
+- taxonomy: 实用在线工具
+  icon: fa-wrench
   links:      
-        - title: 在线免费logo设计
-          url: https://logogalleria.com/zh-CN/app
-          description: 在线免费logo设计
-        - title: 我知道你在下载什么
-          url: https://iknowwhatyoudownload.com/
-          description: 要不看看你下载的内容？
-        - title: DNS泄露查询
-          url: https://ipleak.net/
-          description: DNS泄露查询.
-        - title: 常用脚本大全
-          url: https://www.nodeseek.com/post-19427-1
-          description: 常用脚本大全
-        - title: docker命令转docker-compose文件
-          url: https://www.mklab.cn/utils/docker
-          description: docker命令转docker-compose文件
-        - title: Icon Kitchen
-          url: https://icon.kitchen/
-          description:  这个工具可以快速生成支持各个平台的应用程序图标，支持各种参数调整，无需登录，可以免费使用。 
-       
+    - title: Logo Galleria
+      url: https://logogalleria.com/zh-CN/app
+      description: 在线免费logo设计工具
+    - title: I Know What You Download
+      url: https://iknowwhatyoudownload.com/
+      description: 查看IP地址关联的BT下载历史
+    - title: IP Leak
+      url: https://ipleak.net/
+      description: 检测DNS泄露和IP地址信息的工具
+    - title: 常用脚本大全
+      url: https://www.nodeseek.com/post-19427-1
+      description: 收集各类实用脚本的资源帖
+    - title: Docker命令转换器
+      url: https://www.mklab.cn/utils/docker
+      description: 将docker命令转换为docker-compose文件的工具
+    - title: Icon Kitchen
+      url: https://icon.kitchen/
+      description: 快速生成各平台应用图标的在线工具
+
 - taxonomy: 友情链接
   icon: fa-link
   friend:
     - title: 高质量博客
-      url: https://nciex.com/
-      description: 俺的博客
-    - title: webstack.cc
+      url: https://aio.nciex.com/
+      description: 博主个人技术博客
+    - title: WebStack.cc
       url: https://webstack.cc
-      description: webstack - 设计师网址导航
-    - title: 一为导航
-      url: https://nav.iowen.cn/
-      description: onenav主题演示站
-    - title: 一为 webstack 演示站
-      url: https://webstack.iotheme.cn/
-    - title: 吾站状态
-      url: status.hssq.cc
-      description: 吾站状态
-  
+      description: 优秀的设计师网址导航站点
